@@ -37,20 +37,6 @@ I ran a hypothetical point-in-time backtest from 2011 to 2026:
 
 **What this does and doesn't show:** the screen modestly outperformed the S&P 500 in this test, but it isn't proven to beat the market. The yearly gaps were large compared with the small average edge, so the result isn't statistically significant. Much of the edge came from the last two years, and drawdowns were somewhat deeper than the S&P 500's. The real test is tracking it live over the coming years.
 
-## Screenshots
-
-**Hypothetical backtest:** growth of $10,000 from 2011, compared with the S&P 500. The "Munger list" line is before adjusting for delisted companies and trading costs; the more conservative "bias-adjusted" line is the one the results above are based on.
-
-![Hypothetical backtest chart](screenshots/backtest.png)
-
-**Top-ranked companies:** the best overall scores from the latest scan, ranked 60% on business quality and 40% on valuation.
-
-![Top-ranked companies](screenshots/top-ranked.png)
-
-**Look up a stock:** see how any of the 900+ companies scores against eight Buffett tests, eight Graham tests and Munger's 10% hurdle.
-
-![Stock lookup page](screenshots/lookup.png)
-
 ## Built with
 
 - **Python:** screener, backtest, and analysis
