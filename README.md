@@ -4,6 +4,8 @@
 
 Built by Layton Niemier, Finance student at the University of South Florida (Class of 2030).
 
+**🌐 Live site: [moat-and-margin.vercel.app](https://moat-and-margin.vercel.app)**
+
 > The source code is kept private while the project is in development. This page shows what the project does, how it was tested, and what I learned.
 
 ### At a glance
@@ -64,4 +66,5 @@ This project is for learning purposes only. It is not investment advice. All bac
 
 ## Connect
 
+- Website: [moat-and-margin.vercel.app](https://moat-and-margin.vercel.app)
 - LinkedIn: [Layton Niemier](https://www.linkedin.com/in/layton-niemier-32ab002ab/)
