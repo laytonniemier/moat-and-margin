@@ -6,6 +6,13 @@ Built by Layton Niemier, Finance student at the University of South Florida (Cla
 
 > The source code is kept private while the project is in development. This page shows what the project does, how it was tested, and what I learned.
 
+### At a glance
+
+- **Screens 900+ U.S. companies** for quality ("moat") and value ("margin"), refreshed by a daily data pipeline
+- **15-year point-in-time backtest (2011–2026)** built to avoid look-ahead and survivorship bias, with trading costs included
+- **Ahead of the S&P 500 in 10 of 12 rebalance months**, by about +0.8 points a year on average (hypothetical; not statistically significant)
+- **Stack:** Python, Streamlit, Next.js / TypeScript, with SEC EDGAR, Yahoo Finance and FRED data
+
 ---
 
 ## What it does
